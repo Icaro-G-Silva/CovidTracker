@@ -1,0 +1,9 @@
+
+        Para o dia 14/6/2020,
+        o status de COVID-19 para o Brasil:
+
+        Novos casos: 25,982
+        Casos Confirmados: 828,810
+        Mortos: 41,828
+
+        
