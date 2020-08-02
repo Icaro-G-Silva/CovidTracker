@@ -1,6 +1,5 @@
 from Interface import interface
 
-#The option 'Headless' is avaiable
-#Bot = interface(headless=True)
 Bot = interface()
-Bot.run()
+Bot.menu()
+print('\nThank you to use the CovidBot!, see ya later!')
